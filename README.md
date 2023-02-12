@@ -6,6 +6,10 @@ Com o Habits, os usuários podem definir suas metas diárias, semanais ou mensai
 
 Com uma interface intuitiva e fácil de usar, o Habits torna o monitoramento de tarefas diárias uma tarefa simples e agradável. Seja para monitorar seus exercícios, estudos, trabalho ou outras atividades, o Habits é uma ferramenta valiosa para ajudar você a manter o controle de suas metas e hábitos.
 
+<img src="https://github.com/LohanMarano/habitsApp/blob/main/habits_home.png"/>
+<img src="https://github.com/LohanMarano/habitsApp/blob/main/habits_habitModal.png"/>
+<img src="https://github.com/LohanMarano/habitsApp/blob/main/habits_dayPopover.png"/>
+
 ## Instalação
 
 Para iniciar, é necessário ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. É recomendável também possuir um editor de código como o VSCode para trabalhar com o código. Abaixo segue os links:
