@@ -90,16 +90,15 @@ $ yarn start
 
 ## Tecnologias
 
-- React
+React;
 <br>
-- React Native
+React Native;
 <br>
-- NodeJS
+NodeJS;
 <br>
-- Expo
+Expo;
 <br>
-- Tailwind
-
+Tailwind.
 
 <br>
 
