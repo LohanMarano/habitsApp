@@ -48,7 +48,7 @@ $ yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:LohanMarano/habitsApp.git
+$ git clone git@github.com:LohanMarano/habitsApp_Web.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw-setup
