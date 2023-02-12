@@ -19,7 +19,7 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:LohanMarano/habitsApp.git
+$ git clone git@github.com:LohanMarano/habitsApp_Server.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw-setup
@@ -69,7 +69,7 @@ $ yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:LohanMarano/habitsApp.git
+$ git clone git@github.com:LohanMarano/habitsApp_Mobile.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw-setup
