@@ -101,3 +101,7 @@ Expo
 
 <br><br><br><br>
 
+## Observação
+
+Projeto ainda em desenvolvimento e expansão.
+
